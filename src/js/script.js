@@ -40,7 +40,9 @@ genre.textContent = 'Драмма';
 
 // 3) Изменить задний фон постера с фильмом на изображение "bg.jpg". Оно лежит в папке img. 
 // Реализовать только при помощи JS
-poster.style.backgrounImage = 'url("../images/bg.jpg")';
+poster.style.background = 'url("../images/bg.jpg")';
+
+console.log(poster);
 
 // 4) Список фильмов на странице сформировать на основании данных из этого JS файла.
 // Отсортировать их по алфавиту

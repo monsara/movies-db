@@ -123,6 +123,7 @@
             margin-bottom: 15px;
             padding-right: 40px;
             text-transform: uppercase;
+            cursor: pointer;
 
             span {
                 display: block;
@@ -132,7 +133,7 @@
                 transform: translateY(-50%);
                 width: 20px;
                 height: 20px;
-                background: url('../../images/icons/Star.svg') center (center / cover) no-repeat;
+                background: url('../images/icons/Star.svg') center (center / cover) no-repeat;
             }
 
             &:before {
@@ -155,7 +156,7 @@
                     transform: translateY(-50%);
                     width: 20px;
                     height: 20px;
-                    background: url('../../images/icons/trash.png') center (center / cover) no-repeat;
+                    background: url('../images/icons/trash.png') center (center / cover) no-repeat;
                     cursor: pointer;
                 }
             }
