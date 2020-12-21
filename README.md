@@ -1,6 +1,6 @@
 # Movies-DB
 
-https://monsara.github.io/landing-page/
+https://monsara.github.io/movies-db/
 
 Add logic to the page according to the task from the course
 
