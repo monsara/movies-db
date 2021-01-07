@@ -76,7 +76,7 @@ git clone https://github.com/monsara/generator-hub.git
 - Go to the project folder
 
 ```shell
-cd generator-hub
+cd Movies-db
 ```
 
 - Install dependencies
